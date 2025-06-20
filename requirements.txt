@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+python-dotenv
+requests
+passlib[bcrypt]
+python-jose
+redis>=4.2
+python-multipart
+pydantic[email]
+pytest
+httpx
